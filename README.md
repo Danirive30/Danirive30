@@ -2,12 +2,12 @@
   
 
 <div align="center">
-<a href="https://github.com/Danirive30" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
 <a href="https://linkedin.com/in/daniel-rivera-606281249" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
+</a>
+<a href="mailto:Daniel.rivera.30@outlook.com" target="_blank">
+  <img src="https://img.shields.io/badge/email-%23d14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="email" style="margin-bottom: 5px;" />
+</a>
 </div>  
   
 
@@ -21,7 +21,7 @@
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="100%">
 
 
 
@@ -35,7 +35,7 @@
 - <div align="center">⚡ Fun fact: I’m an enthusiast of financial markets.</div>  
 
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="100%">
 
 
 
@@ -46,8 +46,6 @@
 
 ## Languages and Tools  
 
-
-### Technologies & Tools  
 <div align="center">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" /></a>  
@@ -85,11 +83,6 @@
 
 <br/>  
 
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 
 <!--
 **Danirive30/Danirive30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
