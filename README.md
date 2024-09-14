@@ -12,7 +12,6 @@
   
 
 
-
 ### Glad to see you here!  
 <div align="center">I'm passionate about the world of data science and machine learning. I'm motivated by exploring and applying advanced analysis techniques to uncover patterns in data and help solve complex problems. I'm always looking for new challenges to improve my skills and contribute to innovative projects. 📊</div>  
   
@@ -20,7 +19,7 @@
 <br/>  
 
 
-### Current Focus and Interests  
+### Current focus and interests  
 - <div align="center">🔭 I’m currently developing projects to advance my skills in data science and machine learning.</div>  
   
 
@@ -34,7 +33,7 @@
 
 
 
-## Languages and Tools  
+## Languages and tools  
 
 <div align="center">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
