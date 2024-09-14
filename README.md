@@ -19,6 +19,7 @@
 <br/>  
 
 
+
 ### Current focus and interests  
 - <div align="center">🔭 I’m currently developing projects to advance my skills in data science and machine learning.</div>  
   
@@ -33,7 +34,8 @@
 
 
 
-## Languages and tools  
+
+### Languages and tools  
 
 <div align="center">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
