@@ -19,7 +19,7 @@
 ### Current focus and interests  
 <div align="center">
   - 🔭 I’m currently developing projects to advance my skills in data science and machine learning.<br/>
-  - 🌱 I’m currently learning GCP, TensorFlow, Kubernetes and LLMs.<br/>
+  - 🌱 I’m currently learning **GCP, TensorFlow, Kubernetes** and **LLMs**<br/>
   - ⚡ Fun fact: I’m an enthusiast of financial markets.
 </div>  
 
@@ -27,23 +27,21 @@
 
 ### Languages and tools  
 <div align="center">  
-  <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-  <a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" /></a>  
-  <a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" /></a>  
-  <a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" /></a>  
-  <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-  <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
-  <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-  <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
-  <a href="https://hadoop.apache.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_hadoop-icon.svg" alt="Hadoop" height="50" /></a>  
+  <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python" height="50" /></a>  
+  <a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=for-the-badge" alt="R" height="50" /></a>  
+  <a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=white&style=for-the-badge" alt="Power BI" height="50" /></a>  
+  <a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white&style=for-the-badge" alt="Tableau" height="50" /></a>  
+  <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git" height="50" /></a>  
+  <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/GCP-4285F4?logo=google-cloud&logoColor=white&style=for-the-badge" alt="GCP" height="50" /></a>  
+  <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL" height="50" /></a>  
+  <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" alt="TensorFlow" height="50" /></a>  
+  <a href="https://hadoop.apache.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Hadoop-66CCFF?logo=apache-hadoop&logoColor=white&style=for-the-badge" alt="Hadoop" height="50" /></a>  
 </div>  
 
 <br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=Danirive30&&style=flat-square)  
-
 <br/>
-
 
 <!--
 **Danirive30/Danirive30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
