@@ -20,11 +20,6 @@
 <br/>  
 
 
-## Rapidfire  
-<table><tr><td valign="top" width="100%">
-
-
-
 ### Current Focus and Interests  
 - <div align="center">🔭 I’m currently developing projects to advance my skills in data science and machine learning.</div>  
   
@@ -37,11 +32,6 @@
 
 </td><td valign="top" width="100%">
 
-
-
-</td></tr></table>  
-
-<br/>  
 
 
 ## Languages and Tools  
