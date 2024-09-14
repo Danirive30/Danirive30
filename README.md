@@ -19,7 +19,7 @@
 ### Current focus and interests  
 <div align="center">
   - 🔭 I’m currently developing projects to advance my skills in data science and machine learning.<br/>
-  - 🌱 I’m currently learning **GCP, TensorFlow, Kubernetes** and **LLMs**<br/>
+  - 🌱 I’m currently learning GCP, TensorFlow, Kubernetes and LLMs.<br/>
   - ⚡ Fun fact: I’m an enthusiast of financial markets.
 </div>  
 
@@ -40,17 +40,10 @@
 
 <br/>  
 
-### GitHub Stats  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Danirive30&show_icons=true&count_private=true&hide_border=true&hide_title=true" style="width: 100%; max-width: 400px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danirive30&hide_border=true&layout=compact" style="width: 100%; max-width: 400px;" />
-</div>
-
-<br/>
-
 ![Profile views counter](https://komarev.com/ghpvc/?username=Danirive30&&style=flat-square)  
 
 <br/>
+
 
 <!--
 **Danirive30/Danirive30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
