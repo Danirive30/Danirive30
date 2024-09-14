@@ -40,17 +40,11 @@
 
 <br/>  
 
-### Github Stats  
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Danirive30&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%;" />
-    </td>
-    <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danirive30&hide_border=true&layout=compact" align="left" style="width: 100%;" />
-    </td>
-  </tr>
-</table>
+### GitHub Stats  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Danirive30&show_icons=true&count_private=true&hide_border=true&hide_title=true" style="width: 100%; max-width: 400px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danirive30&hide_border=true&layout=compact" style="width: 100%; max-width: 400px;" />
+</div>
 
 <br/>
 
