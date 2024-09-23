@@ -36,11 +36,6 @@
   <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 5px" src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" alt="TensorFlow" height="30" /></a>  
 </div>  
 
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=Danirive30&&style=flat-square)  
-<br/>
-
 <!--
 **Danirive30/Danirive30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
