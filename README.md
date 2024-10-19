@@ -19,7 +19,7 @@
 ### Current focus and interests  
 <div align="center">
   - 🔭 I’m currently developing projects to advance my skills in data science and machine learning.<br/>
-  - 🌱 I’m currently learning GCP, TensorFlow, Kubernetes and LLMs.<br/>
+  - 🌱 I’m currently learning Cloud Computing, TensorFlow, Kubernetes and LLMs.<br/>
   - ⚡ Fun fact: I’m an enthusiast of financial markets.
 </div>  
 
