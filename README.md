@@ -31,7 +31,8 @@
   <a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 5px" src="https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=white&style=for-the-badge" alt="Power BI" height="30" /></a>  
   <a href="https://www.tableau.com/" target="_blank"><img style="margin: 5px" src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white&style=for-the-badge" alt="Tableau" height="30" /></a>  
   <a href="https://github.com/" target="_blank"><img style="margin: 5px" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git" height="30" /></a>  
-  <a href="https://cloud.google.com/" target="_blank"><img style="margin: 5px" src="https://img.shields.io/badge/GCP-4285F4?logo=google-cloud&logoColor=white&style=for-the-badge" alt="GCP" height="30" /></a>  
+  <a href="https://cloud.google.com/" target="_blank"><img style="margin: 5px" src="https://img.shields.io/badge/GCP-4285F4?logo=google-cloud&logoColor=white&style=for-the-badge" alt="GCP" height="30" /></a>
+  <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 5px" src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" alt="AWS" height="30" /></a>
   <a href="https://www.mysql.com/" target="_blank"><img style="margin: 5px" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL" height="30" /></a>  
   <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 5px" src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" alt="TensorFlow" height="30" /></a>
   <a href="https://hadoop.apache.org/" target="_blank"><img style="margin: 5px" src="https://img.shields.io/badge/Hadoop-66CCFF?logo=apache-hadoop&logoColor=white&style=for-the-badge" alt="Hadoop" height="30" /></a>  
